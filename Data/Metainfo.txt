@@ -1,6 +1,6 @@
 Name of Quantlet: Data
-Published in: Explainable AI for Electricity Price Anomaly Detection
-Description: This is the code for our paper
+Published in: Multi-objective Explainable AI for Romanian Electricity Price Analysis
+Description: This is the data for our paper
 Keywords: Data
 Author: Alexandru-Victor ANDREI, Daniel Traian PELE 
 Submitted: 07.07.2025
