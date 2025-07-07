@@ -1,0 +1,11 @@
+Name of QuantLet: Multi-objective Explainable AI for Romanian Electricity Price Analysis
+
+Published in: Not yet published
+
+Description: Introducing a novel multi-objective explainable AI (XAI) framework to analyze electricity market dynamics
+
+Keywords: XAI; SHAP values; electricity; price forecasting; Machine Learning; Random Forest
+
+Author: Alexandru-Victor ANDREI, Daniel Traian PELE
+
+Submitted: Not yet
